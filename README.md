@@ -44,6 +44,7 @@ To identify storage assets in **AWS S3**.
    - AWS Region
    - Number/type of objects
 
+<img width="1917" height="895" alt="image" src="https://github.com/user-attachments/assets/a88ed89b-dc50-4f8b-ae0d-4d3c1200b6e5" />
 
 
 
@@ -60,6 +61,7 @@ To identify storage assets in **AWS S3**.
 
 - **ON** → Secure configuration
 - **OFF** → Potential public-access risk
+<img width="1916" height="892" alt="image" src="https://github.com/user-attachments/assets/9c55d542-54cd-40b4-a2fb-5011fd557c31" />
 
 
 
@@ -80,6 +82,7 @@ To identify storage assets in **AWS S3**.
 Versioning helps recover previous versions of objects after accidental deletion or modification.
 
 
+<img width="1917" height="891" alt="image" src="https://github.com/user-attachments/assets/940dde72-1cbe-41bb-a816-de576714fff4" />
 
 
 
@@ -100,6 +103,7 @@ Versioning helps recover previous versions of objects after accidental deletion 
 
 Encryption protects stored data from unauthorized disclosure.
 
+<img width="1917" height="881" alt="image" src="https://github.com/user-attachments/assets/d5abd79b-2c72-4b0f-9c49-03a2a118bd72" />
 
 
 ## Step 6: Check Bucket Policy
@@ -115,6 +119,7 @@ Encryption protects stored data from unauthorized disclosure.
 
 > **Note:** A missing bucket policy is not automatically a vulnerability. Access may be controlled through IAM and other AWS security mechanisms.
 
+<img width="1912" height="882" alt="image" src="https://github.com/user-attachments/assets/44af365c-d300-4714-a029-aa1c4f5e0dbc" />
 
 
 ## Step 7: Check Object Ownership and ACL
@@ -132,6 +137,7 @@ This means:
 - Objects are owned by the bucket owner.
 - Access is controlled using policies.
 
+<img width="1917" height="882" alt="image" src="https://github.com/user-attachments/assets/8a5c06fe-0752-4dbf-afbf-93fbf014bd03" />
 
 
 ## Step 8: Check Server Access Logging
@@ -147,6 +153,7 @@ This means:
 Logging helps investigate suspicious or unauthorized access to the bucket.
 
 
+<img width="1917" height="885" alt="Screenshot 2026-09-02 140501" src="https://github.com/user-attachments/assets/a1c2ef99-9098-4da4-bb8f-198b63053a64" />
 
 
 
